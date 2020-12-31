@@ -166,6 +166,7 @@ function multiplyAnyArray(dynamicArray) { //eslint-disable-line
         "The numbers 1,2,3,4,5 have a product of 120."
     ];
     return arrayAns;
+
 }
 
 // Here is the test for multiplyArray(); uncomment it to run it
